@@ -1,4 +1,4 @@
 import { registerRootComponent } from 'expo';
-import DiagnosticComponent from './test.tsx';
+import App from './App.tsx';
 
-registerRootComponent(DiagnosticComponent);
+registerRootComponent(App);
